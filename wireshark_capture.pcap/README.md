@@ -54,5 +54,3 @@ By the end of the video, you will understand how to:
 
 ## 🙌 Author
 Akanksha Mane </br>
-Internship – Task 4 </br>
-Topic: Capturing Network Traffic with Wireshark
