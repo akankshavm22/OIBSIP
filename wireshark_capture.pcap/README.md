@@ -3,7 +3,9 @@ This repository contains a walkthrough video demonstrating how to capture and an
 The video provides a practical, step-by-step explanation of capturing packets, understanding protocol layers, and analyzing key fields in packet structures.
 
 ## 🎥 Video
-File: Capture Network Traffic with Wireshark Task 4 - Internship.mp4 </br>
+📌 Watch the task video here:</br>
+<p class="muted">LinkedIn Post: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7398563566208991235/" target="_blank" rel="noopener">Capture Network Traffic withWireshark </a></p>
+
 This video demonstrates:
 - Setting up Wireshark for packet capture
 - Selecting the correct network interface
